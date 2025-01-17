@@ -5,7 +5,7 @@ This assignment is to make sure you are comfortable using Git. At the end, you w
 You will have sent a pull request to have your changes merged with the main branch. Be sure to add your GitHub username to the assignment "Give Me Your Github Username" located on this Canvas course. If you have already given me your GitHub username, 
 You will receive an invitation to participate in the project via email once I have added you as a collaborator to the GitHub repo. That's when you know you will have permission to push your changes to the GitHub server, otherwise your push will be rejected.
 
-## Step Zero: Complete this [tutorial](https://learngitbranching.js.org/). It behoves you to put effort into honestly completing the tutorial. You MUST know how to use Git in Computer Science. 
+## Step Zero: Complete this [tutorial](https://learngitbranching.js.org/). It behooves you to put effort into honestly completing the tutorial. You MUST know how to use Git in Computer Science. 
 > You should complete the entire Introduction Sequence and Ramping Up sections (You can do more if you want to, it’s good practice! But only the first two sections are required).\
 Once you are done, take a screenshot of your progress card that looks like [this](https://github.com/uncg-csc340/sp25-individual-assignment1/blob/main/src/images/sntini.png). Watermark the file and save it as your first initial and last name put together. For example, mine is "sntini.png"
 
