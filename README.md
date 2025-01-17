@@ -28,6 +28,7 @@ Once you are done, take a screenshot of your progress card that looks like [this
 > where [ BRANCH NAME ] is your first initial and last name, e.g. John Doe would be jdoe, mine is sntini. No brackets!
 
 ## Step Six: Open the project folder in IntelliJ.
+> Be sure to select the correct project folder, not the parent folder. Otherwise IntelliJ will refuse to run your project! Select the folder that has a tiny black box on it.
 > Make your edits in the main class. Create a new User object with your own details following the examples. Add your new user to the list. 
 >
 > Run the main method, this will automatically write to the about-me.txt file. Do not directly edit the about-me.txt file. Save your changes.
