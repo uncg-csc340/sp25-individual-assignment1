@@ -30,11 +30,20 @@ public class Main {
         );
         classList.add(nandor);
 
-
+        User eduardo = new User("Eduardo Herrera-Barraza",
+                """
+                        I am 3rd year computer science student here at UNCG. I am really excited to complete my 
+                        degree and begin working. I am orginally from the city of Goldsboro,North Carolina. I really 
+                        enjoy going for walks and listinging to music, and I also really enjoy learning new languages.I also have 
+                        2 cats!
+                        """
+        );
+        classList.add(eduardo);
+        
+        
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
-
         writeFile(classList);
     }
 
