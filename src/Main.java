@@ -30,12 +30,6 @@ public class Main {
         );
         classList.add(nandor);
 
-
-        /*
-        ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
-         */
-
-
         User eduardo = new User("Eduardo Herrera-Barraza",
                 """
                         I am 3rd year computer science student here at UNCG. I am really excited to complete my 
@@ -45,7 +39,11 @@ public class Main {
                         """
         );
         classList.add(eduardo);
-
+        
+        
+        /*
+        ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
+         */
         writeFile(classList);
     }
 
