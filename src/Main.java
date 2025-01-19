@@ -39,8 +39,15 @@ public class Main {
                         """
         );
         classList.add(eduardo);
-        
-        
+
+        User sajid = new User("Mohamed Sajid Gani Shajahan",
+                """
+                        I am a sophomore. I am currently pursuing my BS in Computer Science
+                        at UNCG. I like soccer and video games.
+                        Just like most basic people, I also love cars and other automobiles. 
+                        """
+        );
+        classList.add(sajid);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
