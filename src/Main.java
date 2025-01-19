@@ -40,6 +40,16 @@ public class Main {
         );
         classList.add(eduardo);
       
+        User Wahhab = new User( "Wahhab Rasheed" ,
+                """
+                        I am a 2nd year computer science student at UNCG. I have a passion for creative 
+                        endeavors such as writing stories and sketching. I was born in Queens, New York and moved to
+                        North Carolina. I love to travel and hope to travel the world someday.
+                        """
+        );
+
+        classList.add(Wahhab);
+
         User Husnain = new User("Husnain Rafique",
                 """
                         I like to play Cricket and working full time. Whenever, i get free time at work,
