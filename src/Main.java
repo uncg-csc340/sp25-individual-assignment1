@@ -39,14 +39,24 @@ public class Main {
                         """
         );
         classList.add(eduardo);
+      
         User Husnain = new User("Husnain Rafique",
                 """
                         I like to play Cricket and working full time. Whenever, i get free time at work,
                         I do like to read self-improvement books recent one is " 12 Rules of Life " by Jordan B. Peterson.
                         I enjoy watching law drama serial, favorite one is "Suits". """);
         classList.add(Husnain);
-        
-        
+
+
+        User sajid = new User("Mohamed Sajid Gani Shajahan",
+                """
+                        I am a sophomore. I am currently pursuing my BS in Computer Science
+                        at UNCG. I like soccer and video games.
+                        Just like most basic people, I also love cars and other automobiles. 
+                        """
+        );
+        classList.add(sajid);
+                                
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
