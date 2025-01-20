@@ -77,7 +77,16 @@ public class Main {
                         """
         );
         classList.add(sajid);
-                                
+
+        User hung = new User( "Hung Nguyen" ,
+                """
+                        This is my second year at UNCG as a transfer student from California. During my free time, I usually play 
+                        video game or watch movie. The latest movie that I watched is "Monster" by director Kore-eda (recommend to
+                        anyone who enjoy the drama genre)
+                        """
+        );
+        classList.add(hung);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
