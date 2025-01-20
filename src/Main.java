@@ -67,9 +67,20 @@ public class Main {
         );
         classList.add(sajid);
                                 
+
+        User granados = new User("Brian Granados",
+         """
+                 I'm currently a junior pursuing my Bachelors in 
+                 Computer Science at UNCG. I love listening to 
+                 music, and I also like playing video games in my spare time.
+                 """
+         );
+        classList.add(granados);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
+
         writeFile(classList);
     }
 
