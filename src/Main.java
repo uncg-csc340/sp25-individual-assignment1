@@ -87,6 +87,18 @@ public class Main {
         );
         classList.add(hung);
 
+        User lbowles = new User("Logan Bowles",
+                """
+                        I am a Senior at UNCG and also work for Apple as a College advisor.  I live a super boring life.
+                        Because of that, I can really easily chronicle my every day here; I wake up at 6 in the morning,
+                        make an egg-white omelette, go to the gym, then to classes, I get home and eat an amalgamation of 
+                        lunch/dinner, appropriately coined: 'Linner', then work until 11 PM EST.  If my friends are up, we play
+                        Valorant or R6S to make my night worse; I then play until I'm tilted and have to sleep.  Then I repeat.
+                        """
+
+        );
+        classList.add(lbowles);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
