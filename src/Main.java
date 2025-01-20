@@ -50,6 +50,17 @@ public class Main {
 
         classList.add(Wahhab);
 
+
+        User Rafael = new User( "Rafael Venegas" ,
+                """
+                        This is my second year at UNCG as a computer student. I like to code and learn about programming and I like to
+                        play videogames. I was born in High Point, North Carolina. I hope to be able to get a job in either creating
+                        some type of app/web application or game development when I graduate. 
+                                       """
+        );
+
+        classList.add(Rafael);
+
         User Husnain = new User("Husnain Rafique",
                 """
                         I like to play Cricket and working full time. Whenever, i get free time at work,
