@@ -78,6 +78,7 @@ public class Main {
         );
         classList.add(sajid);
 
+
         User hung = new User( "Hung Nguyen" ,
                 """
                         This is my second year at UNCG as a transfer student from California. During my free time, I usually play 
@@ -106,10 +107,22 @@ public class Main {
                         I also love watching and playing soccer and I am Huge Real Madrid fan. 
                         """
         );
-        classList.add(jared);
+        classList.add(jared);                          
+
+        User granados = new User("Brian Granados",
+         """
+                 I'm currently a junior pursuing my Bachelors in 
+                 Computer Science at UNCG. I love listening to 
+                 music, and I also like playing video games in my spare time.
+                 """
+         );
+        classList.add(granados);
+
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
+
         writeFile(classList);
     }
 
