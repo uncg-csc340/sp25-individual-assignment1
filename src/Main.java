@@ -128,6 +128,14 @@ public class Main {
         );
         classList.add(anthony);
 
+        User robertson = new User("Robertson Siu",
+                """
+                        I am a senior and a Computer Science major at UNCG.
+                        I like to play games and read mangas/manhwas/manhuas mainly.
+                        But I also like to listen to music a lot and I like basketball as a sport to play/watch.
+                        """
+        );
+        classList.add(robertson);
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
