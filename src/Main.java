@@ -99,6 +99,14 @@ public class Main {
         );
         classList.add(lbowles);
 
+        User jared = new User("Jared Martinez",
+                """
+                        I am a junior at UNCG. I live in a small town near Virginia called Eden. 
+                        If im not working or at school I'll usaully just spend my time with my girlfriend. 
+                        I also love watching and playing soccer and I am Huge Real Madrid fan. 
+                        """
+        );
+        classList.add(jared);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
