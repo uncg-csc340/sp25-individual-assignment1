@@ -137,6 +137,17 @@ public class Main {
         );
         classList.add(fady);
 
+        User lucas = new User("Lucas Walton",
+
+                """
+                        I am a sophmore in computer science at UNCG. I like to read, code, make music, and play basketball.
+                        I am half congolese and half guyanese but I am from in Wake Forest, NC.
+                """);
+        classList.add(lucas);
+
+
+
+
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
