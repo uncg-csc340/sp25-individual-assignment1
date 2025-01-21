@@ -137,7 +137,15 @@ public class Main {
         );
         classList.add(fady);
 
-
+        User lily = new User("Lily Nguyen",
+                """
+                        Hi, I'm Lily. I am senior at UNCG. I transferred to UNCG as a computer science major after
+                        doing two years as a biology major at App State. In my free time I'm usually spending time at 
+                        the gym or with my boyfriend. I am a competitive bodybuilder and compete in my first pro show in
+                        September this year. 
+                        """
+        );
+        classList.add(lily);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
