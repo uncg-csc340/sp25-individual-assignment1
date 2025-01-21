@@ -128,6 +128,15 @@ public class Main {
         );
         classList.add(anthony);
 
+        User fady = new User("Fady Eskandr",
+                """
+                        I am a senior in computer science in UNCG and I love breaking down cars and rebuilidng them
+                        in my spare time. I am originally from Egypt and am working on picking up a third language in my spare time
+                        or try to be outdoors as much as I can. 
+                        """
+        );
+        classList.add(fady);
+
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
