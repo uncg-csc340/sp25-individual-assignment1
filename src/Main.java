@@ -118,6 +118,16 @@ public class Main {
          );
         classList.add(granados);
 
+        User anthony = new User("Anthony Lai",
+                """
+                        I am a senior at UNCG. I am pursuing a second bachelor's degree in Computer Science. I spent
+                        time in the military, then after a bit of time, enrolled in UNCG.
+                        I am originally from California, but now I live here with my girlfriend. I mainly go to the gym
+                        in my free time, and I enjoy the quiet life at home just watching tv/movies and playing with my dog.
+                        """
+        );
+        classList.add(anthony);
+
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
