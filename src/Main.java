@@ -43,7 +43,7 @@ public class Main {
         User Wahhab = new User( "Wahhab Rasheed" ,
                 """
                         I am a 2nd year computer science student at UNCG. I have a passion for creative 
-                        endeavors such as writing stories and sketching. I was born in Queens, New York, and moved to
+                        endeavors such as writing stories and sketching. I was born in Queens, New York and moved to
                         North Carolina. I love to travel and hope to travel the world someday.
                         """
         );
@@ -144,6 +144,16 @@ public class Main {
                         """
         );
         classList.add(fady);
+
+        User yasmine = new User("Yasmine Chiboub",
+                """
+                        I am a sophomore at UNCG. I am majoring in Computer Science. I was raised in Greensboro, 
+                        but I was born in Casablanca, Morocco. In my free time I like to learn more about my religion, 
+                        read books, take photos for my account, I love the outdoors or hiking (anything that has a forest),
+                        and going to the gym. 
+                        """
+        );
+        classList.add(yasmine);
 
         User lily = new User("Lily Nguyen",
                 """
