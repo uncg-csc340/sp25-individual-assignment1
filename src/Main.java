@@ -164,9 +164,16 @@ public class Main {
         );
         classList.add(robertson);
 
-        /*
-        ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
-         */
+        User vincent = new User("Vincent Igboekwe",
+                """
+                        I am a senior and a Computer Science major at UNCG.
+                        I like to play videogames, play basketball and go to bars with friends.
+                        I'm from Raleigh but currently live in Greensboro. 
+                        """
+        );
+        classList.add(vincent);
+
+
 
         writeFile(classList);
     }
