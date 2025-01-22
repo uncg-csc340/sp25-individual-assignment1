@@ -154,6 +154,16 @@ public class Main {
                         """
         );
         classList.add(lily);
+
+        User robertson = new User("Robertson Siu",
+                """
+                        I am a senior and a Computer Science major at UNCG.
+                        I like to play games, listen to music, play basketball and read manga/manhwa/manhua.
+                        I'm from Greensboro but currently live in High Point.
+                        """
+        );
+        classList.add(robertson);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
