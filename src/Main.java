@@ -128,6 +128,14 @@ public class Main {
         );
         classList.add(anthony);
 
+        User adrian = new User("Adrian Sam",
+                """
+                        My name is Adrian Sam. I am a computer science student at UNCG.
+                        I am from greensboro so i commute and i love listening to music and watching shows on my free time
+                        """
+        );
+        classList.add(adrian);
+
         User fady = new User("Fady Eskandr",
                 """
                         I am a senior in computer science in UNCG and I love breaking down cars and rebuilidng them
