@@ -43,7 +43,7 @@ public class Main {
         User Wahhab = new User( "Wahhab Rasheed" ,
                 """
                         I am a 2nd year computer science student at UNCG. I have a passion for creative 
-                        endeavors such as writing stories and sketching. I was born in Queens, New York and moved to
+                        endeavors such as writing stories and sketching. I was born in Queens, New York, and moved to
                         North Carolina. I love to travel and hope to travel the world someday.
                         """
         );
