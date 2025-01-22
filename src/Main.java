@@ -163,7 +163,17 @@ public class Main {
                         """
         );
         classList.add(robertson);
-
+        
+        User nahser = new User("Veronica Nahser",
+                """
+                        I'm returning to finish my degree after several years of working. I am a licenced 
+                        commerial driver and any biases I have for or against US states or cities are entirely
+                        based to how easy they are to drive into and through.
+                        I like video games, TTRPGs, swimming, and reading.
+                        I recently started riding my bike to get around campus and downtown. 
+                """
+        );
+        classList.add(nahser);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
