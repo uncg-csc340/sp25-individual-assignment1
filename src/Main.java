@@ -128,6 +128,14 @@ public class Main {
         );
         classList.add(anthony);
 
+        User adrian = new User("Adrian Sam",
+                """
+                        My name is Adrian Sam. I am a computer science student at UNCG.
+                        I am from greensboro so i commute and i love listening to music and watching shows on my free time
+                        """
+        );
+        classList.add(adrian);
+
         User fady = new User("Fady Eskandr",
                 """
                         I am a senior in computer science in UNCG and I love breaking down cars and rebuilidng them
@@ -147,6 +155,24 @@ public class Main {
         );
         classList.add(yasmine);
 
+        User lily = new User("Lily Nguyen",
+                """
+                        Hi, I'm Lily. I am senior at UNCG. I transferred to UNCG as a computer science major after
+                        doing two years as a biology major at App State. In my free time I'm usually spending time at 
+                        the gym or with my boyfriend. I am a competitive bodybuilder and compete in my first pro show in
+                        September this year. 
+                        """
+        );
+        classList.add(lily);
+
+        User robertson = new User("Robertson Siu",
+                """
+                        I am a senior and a Computer Science major at UNCG.
+                        I like to play games, listen to music, play basketball and read manga/manhwa/manhua.
+                        I'm from Greensboro but currently live in High Point.
+                        """
+        );
+        classList.add(robertson);
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
