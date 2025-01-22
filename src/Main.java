@@ -145,6 +145,15 @@ public class Main {
         );
         classList.add(fady);
 
+        User foday = new User("Isaac Foday Mami",
+        """
+                I am a senior in Business Administration here with a minor in Computer Science. I exercise a lot and enjoy
+                playing basketball and running. I am currently in the army national guard and I also work at a local company
+                apexanalytix as a corporate trainer. On my freetime I produce music and volunteer at church.
+                """
+        );
+        classList.add(foday);
+
         User yasmine = new User("Yasmine Chiboub",
                 """
                         I am a sophomore at UNCG. I am majoring in Computer Science. I was raised in Greensboro, 
