@@ -137,6 +137,16 @@ public class Main {
         );
         classList.add(fady);
 
+        User yasmine = new User("Yasmine Chiboub",
+                """
+                        I am a sophomore at UNCG. I am majoring in Computer Science. I was raised in Greensboro, 
+                        but I was born in Casablanca, Morocco. In my free time I like to learn more about my religion, 
+                        read books, take photos for my account, I love the outdoors or hiking (anything that has a forest),
+                        and going to the gym. 
+                        """
+        );
+        classList.add(yasmine);
+
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
