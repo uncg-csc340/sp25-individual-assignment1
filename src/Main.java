@@ -200,6 +200,14 @@ public class Main {
         );
         classList.add(brandon);
 
+        User leonardParra = new User("Leonard Parra" ,
+                """
+                       I am a junior in computer science at UNCG. I am from Asheboro and commute everyday.
+                       I enjoy playing video games in my spare time.
+                        """
+        );
+        classList.add(leonardParra);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
