@@ -182,6 +182,15 @@ public class Main {
                         """
         );
         classList.add(robertson);
+        
+        User alexander = new User("Alexander Crubaugh",
+                """
+                        I am a senior at UNCG and a Computer Science Major. I grew up across Africa for most of my life
+                        and moved to greensboro when I started University. I spend majority of my free time playing sports
+                        or a the gym.
+                        """
+        );
+        classList.add(alexander);
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
