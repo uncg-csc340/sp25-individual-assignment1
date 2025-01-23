@@ -200,6 +200,16 @@ public class Main {
         );
         classList.add(brandon);
 
+        User damaris = new User("Damaris Hilario-Miranda" ,
+                """
+                        I am a junior majoring in Computer Science with a minor in Mathematics at UNCG.
+                        I enjoy traveling, learning and discovering new things, and have recently started exploring music.
+                        In my free time, I like watching shows and movies, and I also enjoy deepening my understanding of my faith.
+                        I am from Winston-Salem and commute to campus from there.
+                        """
+        );
+        classList.add(damaris);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
