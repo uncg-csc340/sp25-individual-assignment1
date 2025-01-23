@@ -164,6 +164,21 @@ public class Main {
                                                 """);
                 classList.add(robertson);
 
+                User alexa = new User("Alexa Chegue-Santos",
+                                """
+                                                I am a third year computer science student at UNCG and I work as a server part-time.
+                                                I enjoy learning and experiencing new things like hiking and travelling. I like reading outside
+                                                of school and listing to music. I commute from Winston-Salem, NC.
+                                                """);
+                classList.add(alexa);
+
+                User brandon = new User("Brandon Vazquez-Henriquez",
+                                """
+                                                I am a junior and a computer science major in UNCG. I enjoy going to the gym and playing video games.
+                                                I am from Winston-Salem and commute from there everyday.
+                                                """);
+                classList.add(brandon);
+
                 User alexander = new User("Alexander Crubaugh",
                                 """
                                                 I am a current senior at UNCG and a Computer Science Major. I grew up across Africa for most of my life
