@@ -164,6 +164,14 @@ public class Main {
         );
         classList.add(robertson);
 
+        User tsega = new User("Tsega Takele",
+                """
+                        Hi, my name is Tsega. I am a Junior and a Computer Science major at UNCG. I am a transfer
+                        student from Guilford Technical Community College. I like to spend my free time
+                         listening to music, going to the gym and learning new languages.
+                        """);
+        classList.add(tsega);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
