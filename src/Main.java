@@ -145,6 +145,25 @@ public class Main {
         );
         classList.add(fady);
 
+        User foday = new User("Isaac Foday Mami",
+        """
+                I am a senior in Business Administration here with a minor in Computer Science. I exercise a lot and enjoy
+                playing basketball and running. I am currently in the army national guard and I also work at a local company
+                apexanalytix as a corporate trainer. On my freetime I produce music and volunteer at church.
+                """
+        );
+        classList.add(foday);
+
+        User yasmine = new User("Yasmine Chiboub",
+                """
+                        I am a sophomore at UNCG. I am majoring in Computer Science. I was raised in Greensboro, 
+                        but I was born in Casablanca, Morocco. In my free time I like to learn more about my religion, 
+                        read books, take photos for my account, I love the outdoors or hiking (anything that has a forest),
+                        and going to the gym. 
+                        """
+        );
+        classList.add(yasmine);
+
         User lily = new User("Lily Nguyen",
                 """
                         Hi, I'm Lily. I am senior at UNCG. I transferred to UNCG as a computer science major after
@@ -164,6 +183,7 @@ public class Main {
         );
         classList.add(robertson);
 
+
         User tsega = new User("Tsega Takele",
                 """
                         Hi, my name is Tsega. I am a Junior and a Computer Science major at UNCG. I am a transfer
@@ -171,6 +191,24 @@ public class Main {
                          listening to music, going to the gym and learning new languages.
                         """);
         classList.add(tsega);
+
+        User alexa = new User("Alexa Chegue-Santos",
+                """
+                        I am a third year computer science student at UNCG and I work as a server part-time. 
+                        I enjoy learning and experiencing new things like hiking and travelling. I like reading outside 
+                        of school and listing to music. I commute from Winston-Salem, NC.  
+                        """
+                );
+        classList.add(alexa);
+
+        User brandon = new User("Brandon Vazquez-Henriquez" ,
+                """
+                        I am a junior and a computer science major in UNCG. I enjoy going to the gym and playing video games.
+                        I am from Winston-Salem and commute from there everyday.
+                        """
+        );
+        classList.add(brandon);
+
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
