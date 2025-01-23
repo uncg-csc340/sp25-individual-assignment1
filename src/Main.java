@@ -200,6 +200,14 @@ public class Main {
         );
         classList.add(brandon);
 
+
+        User Yajaira = new User("Yajaira Alonso-Camarillo",
+                """
+                        I am junior majoring in Computer Science. 
+                        I enjoy playing with my dog, listening to music, and watching movies. 
+                        """
+        );
+        classList.add(Yajaira);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
