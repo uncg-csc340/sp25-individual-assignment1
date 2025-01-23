@@ -119,3 +119,14 @@ I am a third year computer science student at UNCG and I work as a server part-t
 I enjoy learning and experiencing new things like hiking and travelling. I like reading outside
 of school and listing to music. I commute from Winston-Salem, NC.
 
+Brandon Vazquez-Henriquez
+---------------------------------------------------------
+I am a junior and a computer science major in UNCG. I enjoy going to the gym and playing video games.
+I am from Winston-Salem and commute from there everyday.
+
+Alexander Crubaugh
+---------------------------------------------------------
+I am a current senior at UNCG and a Computer Science Major. I grew up across Africa for most of my life
+and moved to greensboro when I started University. I spend majority of my free time playing sports
+or a the gym.
+
