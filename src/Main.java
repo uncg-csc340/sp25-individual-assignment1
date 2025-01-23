@@ -183,15 +183,6 @@ public class Main {
         );
         classList.add(robertson);
 
-        User alexa = new User("Alexa Chegue-Santos",
-                """
-                        I am a third year computer science student at UNCG and I work as a server part-time. 
-                        I enjoy learning and experiencing new things like hiking and travelling. I like reading outside 
-                        of school and listing to music. I commute from Winston-Salem, NC.  
-                        """
-                );
-        classList.add(alexa);
-
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
