@@ -200,6 +200,14 @@ public class Main {
         );
         classList.add(brandon);
 
+        User abel = new User("Abel Moran" ,
+                """
+                        I am a senior and a computer science major in UNCG. I enjoy going to the playing video games and leatherworking.
+                        I am from Chicago, IL  and currently live in HighPoint. 
+                        """
+        );
+        classList.add(abel);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
