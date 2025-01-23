@@ -183,14 +183,6 @@ public class Main {
         );
         classList.add(robertson);
 
-        User Elijah = new User("Elijah Alford",
-                """
-                        I am a junior majoring in Computer Science at UNCG.
-                        I like to play video games and basketball, watching football (Go Steelers),and being outdoors.
-                        I'm from Fayetteville, North Carolina.
-                        """
-        );
-        classList.add(Elijah);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
