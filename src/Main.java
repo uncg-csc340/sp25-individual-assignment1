@@ -200,6 +200,14 @@ public class Main {
         );
         classList.add(brandon);
 
+        User carter = new User("Carter Gibb" ,
+                """
+                        I am a senior and a computer science major in UNCG. I enjoy going to the gym and playing video games.
+                        I commute, but live near by so the drive isn't a major issue. I played piano academically in high school, and have
+                        practiced for years prior to that as well.
+                        """
+        );
+        classList.add(carter);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
