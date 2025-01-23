@@ -200,9 +200,18 @@ public class Main {
         );
         classList.add(brandon);
 
+        User elizabeth = new User("Elizabeth Spratt",
+         """
+                I am a senior and a Computer Science Major at UNCG, Currently I work at Spectrum. 
+                I enjoy Reading adn playing with my dogs. 
+                I am from Charlotte and commute from there. 
+                """
+        );
+        classList.add(elizabeth);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
+
 
         writeFile(classList);
     }
