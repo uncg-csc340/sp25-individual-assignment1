@@ -200,6 +200,15 @@ public class Main {
         );
         classList.add(brandon);
 
+        User isaac = new User("Isaac Hollaway",
+                """
+                        I am a senior at UNCG, if everything goes well I hope to graduate
+                        at the end of this year. I like to cook, crochet, and mod in my free
+                        time.
+                        """
+        );
+        classList.add(isaac);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
