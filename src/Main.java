@@ -164,6 +164,15 @@ public class Main {
         );
         classList.add(robertson);
 
+        User christian = new User( "Christian Cureton" ,
+                """ 
+                        Hello, I'm Christian Cureton. I'm a senior majoring in Computer Science with a minor in Mathematics.
+                        In my free time I like to play video games, workout, listen to music, and I love to watch reality TV shows.
+                        I'm from Charlotte, NC.
+                        """
+        );
+        classList.add(christian);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
