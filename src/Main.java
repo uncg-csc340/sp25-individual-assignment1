@@ -192,6 +192,14 @@ public class Main {
                 );
         classList.add(alexa);
 
+        User brandon = new User("Brandon Vazquez-Henriquez" ,
+                """
+                        I am a junior and a computer science major in UNCG. I enjoy going to the gym and playing video games.
+                        I am from Winston-Salem and commute from there everyday.
+                        """
+        );
+        classList.add(brandon);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
