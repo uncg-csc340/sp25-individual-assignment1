@@ -209,6 +209,17 @@ public class Main {
         );
         classList.add(Joshua);
 
+        User saniyah = new User("Saniyah Khan",
+                """
+                          I am a fourth year computer science student at UNCG.
+                          I enjoy baking a lot. I want to master how to make macaron's one day. 
+                          I like reading webtoons that are mystery and horror based. 
+                          I hope to graduate on time! 
+                        """
+        );
+        classList.add(saniyah);
+
+
 
 
         /*
