@@ -200,6 +200,14 @@ public class Main {
         );
         classList.add(brandon);
 
+        User libby = new User("Libby Zou" ,
+                """
+                        I am a 2nd year student at UNCG in Computer Science. I enjoy listening to music and playing video games.
+                        I also love exploring or traveling and having fun with my friends and family.
+                        """
+        );
+        classList.add(libby);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
