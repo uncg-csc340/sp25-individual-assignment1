@@ -209,6 +209,15 @@ public class Main {
         );
         classList.add(Joshua);
 
+        User yahir = new User("Yahir Paz",
+                """
+                       I am a third year Computer Science student at UNCG. I was born and raised in Honduras. I am currently
+                       living in Durham, but before moving here, I lived in Miami. I enjoy traveling, learning about new
+                       cultures, music, and films.
+                        """
+        );
+        classList.add(yahir);
+
 
 
         /*
