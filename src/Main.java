@@ -209,6 +209,15 @@ public class Main {
         );
         classList.add(Joshua);
 
+        User kaz = new User("Kaz Chhan-Kong",
+                """
+                        Im in my junior year majoring in computer science at UNCG. I was born in California but
+                        grew up here in North Carolina. In my free time I like to play Fortnite, listen to music,
+                        or play basketball. I also enjoy the outdoors like going hiking or the beach.
+                        """
+        );
+        classList.add(kaz);
+
 
 
         /*
