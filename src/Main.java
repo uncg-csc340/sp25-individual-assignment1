@@ -198,7 +198,16 @@ public class Main {
                         I am from Winston-Salem and commute from there everyday.
                         """
         );
-        classList.add(brandon);
+
+        classList.add(austin);
+
+        User brandon = new User("Austin Rehner" ,
+                """
+                        I am a junior computer science major. I transferred here with an associate's to earn my bachelors and
+                        start a new career. 
+                        """
+        );
+        classList.add(austin);
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
