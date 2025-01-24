@@ -200,6 +200,14 @@ public class Main {
         );
         classList.add(brandon);
 
+
+        User cincear = new User("Cincear Weaver",
+                """
+                        I am 3rd year computer science student here at UNCG. I am from Roanoke Rapids, Norht Carolina. I like
+                        to listen and make music.
+                        """
+        );
+        classList.add(cincaer);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
