@@ -124,8 +124,18 @@ Brandon Vazquez-Henriquez
 I am a junior and a computer science major in UNCG. I enjoy going to the gym and playing video games.
 I am from Winston-Salem and commute from there everyday.
 
+<<<<<<< HEAD
 Richard Antwi-Bediako
 ---------------------------------------------------------
 I'm Richard, a senior at UNCG majoring in computer science. In my spare time, I like to play read and work out at the gym.
 Durham is where I'm from.
 
+=======
+Joshua Seton Wusu
+---------------------------------------------------------
+I am a junior majoring in computer science at UNCG.
+I like to call myself a tech enthusiast as I do enjoy
+interacting with new technological advances.
+I enjoy playing games, watching anime, I am also a RC hobbyist and I work out a fair bit.
+I am currently in the Army National Guard.
+>>>>>>> cc09c237dc82d02dcef38fe3c553ebf2e491c1aa
