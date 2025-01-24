@@ -20,6 +20,18 @@ public class Main {
         );
         classList.add(sunny);
 
+        User carlos = new User("Carlos Taylor",
+                """
+                      I am a Junior computer science student. I got my associates of science at GTCC while working full time,
+                      and I aim to get my bachelors in computer science now. I own my own technology integration company where I
+                      install low voltage equipment in homes and businesses. I have a few hobbies that include video-games(of course),
+                      3d printing, and playing magic the gathering and pokemon TCG's. I was born in Ecuador and I came here when 
+                      I was 5 years old. I was raised in massachusetts and then moved down to north carolina, where I have been 
+                      ever since.
+                        """
+        );
+        classList.add(carlos);
+
         User nandor = new User("Nandor DeLaurentis",
                 """
                         I was a very ferocious warrior in the Ottoman Empire, which meant doing a lot of things. A lot
