@@ -200,6 +200,14 @@ public class Main {
         );
         classList.add(brandon);
 
+        User seth = new User( "Seth Dixon" ,
+                """
+                I am a junior and a computer science major in UNCG. I enjoy playing video games and working at my full time job.
+                I am from Roxboro and commute to campus every weekend while living on campus throughout the week. 
+                """
+
+        );
+        classList.add(seth);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
