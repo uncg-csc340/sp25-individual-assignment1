@@ -200,6 +200,13 @@ public class Main {
         );
         classList.add(brandon);
 
+        User angel = new User("Angel Lopez",
+                """
+                        I am a CS Major in my 3rd year at UNCG. It hasn't been the easiest, but we are making it.
+                        I am from Chapel Hill, NC. I like chill, calm environments and chicken nuggets.
+                        """
+        );
+        classList.add(angel);
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
