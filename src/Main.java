@@ -200,6 +200,14 @@ public class Main {
         );
         classList.add(brandon);
 
+        User richard = new User("Richard Antwi-Bediako" ,
+                """
+                        I'm Richard, a senior at UNCG majoring in computer science. In my spare time, I like to play read and work out at the gym. 
+                        Durham is where I'm from.
+                        """
+        );
+        classList.add(richard);
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */

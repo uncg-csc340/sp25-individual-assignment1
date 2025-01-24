@@ -124,3 +124,8 @@ Brandon Vazquez-Henriquez
 I am a junior and a computer science major in UNCG. I enjoy going to the gym and playing video games.
 I am from Winston-Salem and commute from there everyday.
 
+Richard Antwi-Bediako
+---------------------------------------------------------
+I'm Richard, a senior at UNCG majoring in computer science. In my spare time, I like to play read and work out at the gym.
+Durham is where I'm from.
+
