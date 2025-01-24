@@ -20,6 +20,14 @@ public class Main {
         );
         classList.add(sunny);
 
+        User reba = new User("Reba",
+                """ 
+                        I love to read books, enjoy watching movies, and 
+                        painting. I love to watch dramas in different languages to learn the said languages.
+                        In my free time I am usually hanging out with friends or family.
+                        """);
+        classList.add(reba);
+
         User nandor = new User("Nandor DeLaurentis",
                 """
                         I was a very ferocious warrior in the Ottoman Empire, which meant doing a lot of things. A lot
