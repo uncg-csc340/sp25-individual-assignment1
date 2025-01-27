@@ -20,6 +20,15 @@ public class Main {
         );
         classList.add(sunny);
 
+        User amacarayan = new User("Adrian Macarayan",
+                """
+                        This is my third year in UNCG. I'm currently working on my Computer Science major and Information
+                        Technology minor. I love playing video games, especially competitive games (Tekken,R6S,Val). I like 
+                        working out, mma, and my favorite superhero is Batman.
+                        """
+        );
+        classList.add(amacarayan);
+
         User nandor = new User("Nandor DeLaurentis",
                 """
                         I was a very ferocious warrior in the Ottoman Empire, which meant doing a lot of things. A lot
