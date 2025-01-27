@@ -72,4 +72,4 @@ https://github.com/uncg-csc340/sp25-individual-assignment1
 ## Final Step: On Canvas, submit a link to the pull request that you created.
 > Open your pull request and just copy the URL in the address bar. The link will include the word "pull" and a number in it. Do not submit a link to the general repository.
 > 
-> Your work will get approved and merged so that your changes show up on the main branch.
+> Your work will get approved and merged BY ME so that your changes show up on the main branch.

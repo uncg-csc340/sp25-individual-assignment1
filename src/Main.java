@@ -39,8 +39,8 @@ public class Main {
                         """
         );
         classList.add(eduardo);
-      
-        User Wahhab = new User( "Wahhab Rasheed" ,
+
+        User Wahhab = new User("Wahhab Rasheed",
                 """
                         I am a 2nd year computer science student at UNCG. I have a passion for creative 
                         endeavors such as writing stories and sketching. I was born in Queens, New York and moved to
@@ -49,6 +49,17 @@ public class Main {
         );
 
         classList.add(Wahhab);
+
+
+        User Rafael = new User("Rafael Venegas",
+                """
+                        This is my second year at UNCG as a computer student. I like to code and learn about programming and I like to
+                        play videogames. I was born in High Point, North Carolina. I hope to be able to get a job in either creating
+                        some type of app/web application or game development when I graduate. 
+                        """
+        );
+
+        classList.add(Rafael);
 
         User Husnain = new User("Husnain Rafique",
                 """
@@ -66,16 +77,139 @@ public class Main {
                         """
         );
         classList.add(sajid);
-                                
+
+
+        User hung = new User("Hung Nguyen",
+                """
+                        This is my second year at UNCG as a transfer student from California. During my free time, I usually play 
+                        video game or watch movie. The latest movie that I watched is "Monster" by director Kore-eda (recommend to
+                        anyone who enjoy the drama genre)
+                        """
+        );
+        classList.add(hung);
+
+        User lbowles = new User("Logan Bowles",
+                """
+                        I am a Senior at UNCG and also work for Apple as a College advisor.  I live a super boring life.
+                        Because of that, I can really easily chronicle my every day here; I wake up at 6 in the morning,
+                        make an egg-white omelette, go to the gym, then to classes, I get home and eat an amalgamation of 
+                        lunch/dinner, appropriately coined: 'Linner', then work until 11 PM EST.  If my friends are up, we play
+                        Valorant or R6S to make my night worse; I then play until I'm tilted and have to sleep.  Then I repeat.
+                        """
+
+        );
+        classList.add(lbowles);
+
+        User jared = new User("Jared Martinez",
+                """
+                        I am a junior at UNCG. I live in a small town near Virginia called Eden. 
+                        If im not working or at school I'll usaully just spend my time with my girlfriend. 
+                        I also love watching and playing soccer and I am Huge Real Madrid fan. 
+                        """
+        );
+        classList.add(jared);
 
         User granados = new User("Brian Granados",
-         """
-                 I'm currently a junior pursuing my Bachelors in 
-                 Computer Science at UNCG. I love listening to 
-                 music, and I also like playing video games in my spare time.
-                 """
-         );
+                """
+                        I'm currently a junior pursuing my Bachelors in 
+                        Computer Science at UNCG. I love listening to 
+                        music, and I also like playing video games in my spare time.
+                        """
+        );
         classList.add(granados);
+
+        User anthony = new User("Anthony Lai",
+                """
+                        I am a senior at UNCG. I am pursuing a second bachelor's degree in Computer Science. I spent
+                        time in the military, then after a bit of time, enrolled in UNCG.
+                        I am originally from California, but now I live here with my girlfriend. I mainly go to the gym
+                        in my free time, and I enjoy the quiet life at home just watching tv/movies and playing with my dog.
+                        """
+        );
+        classList.add(anthony);
+
+        User adrian = new User("Adrian Sam",
+                """
+                        My name is Adrian Sam. I am a computer science student at UNCG.
+                        I am from greensboro so i commute and i love listening to music and watching shows on my free time
+                        """
+        );
+        classList.add(adrian);
+
+        User fady = new User("Fady Eskandr",
+                """
+                        I am a senior in computer science in UNCG and I love breaking down cars and rebuilidng them
+                        in my spare time. I am originally from Egypt and am working on picking up a third language in my spare time
+                        or try to be outdoors as much as I can. 
+                        """
+        );
+        classList.add(fady);
+
+        User foday = new User("Isaac Foday Mami",
+                """
+                        I am a senior in Business Administration here with a minor in Computer Science. I exercise a lot and enjoy
+                        playing basketball and running. I am currently in the army national guard and I also work at a local company
+                        apexanalytix as a corporate trainer. On my freetime I produce music and volunteer at church.
+                        """
+        );
+        classList.add(foday);
+
+        User yasmine = new User("Yasmine Chiboub",
+                """
+                        I am a sophomore at UNCG. I am majoring in Computer Science. I was raised in Greensboro, 
+                        but I was born in Casablanca, Morocco. In my free time I like to learn more about my religion, 
+                        read books, take photos for my account, I love the outdoors or hiking (anything that has a forest),
+                        and going to the gym. 
+                        """
+        );
+        classList.add(yasmine);
+
+        User lily = new User("Lily Nguyen",
+                """
+                        Hi, I'm Lily. I am senior at UNCG. I transferred to UNCG as a computer science major after
+                        doing two years as a biology major at App State. In my free time I'm usually spending time at 
+                        the gym or with my boyfriend. I am a competitive bodybuilder and compete in my first pro show in
+                        September this year. 
+                        """
+        );
+        classList.add(lily);
+
+        User robertson = new User("Robertson Siu",
+                """
+                        I am a senior and a Computer Science major at UNCG.
+                        I like to play games, listen to music, play basketball and read manga/manhwa/manhua.
+                        I'm from Greensboro but currently live in High Point.
+                        """
+        );
+        classList.add(robertson);
+
+        User alexa = new User("Alexa Chegue-Santos",
+                """
+                        I am a third year computer science student at UNCG and I work as a server part-time. 
+                        I enjoy learning and experiencing new things like hiking and travelling. I like reading outside 
+                        of school and listing to music. I commute from Winston-Salem, NC.  
+                        """
+        );
+        classList.add(alexa);
+
+        User brandon = new User("Brandon Vazquez-Henriquez",
+                """
+                        I am a junior and a computer science major in UNCG. I enjoy going to the gym and playing video games.
+                        I am from Winston-Salem and commute from there everyday.
+                        """
+        );
+        classList.add(brandon);
+
+        User Joshua = new User("Joshua Seton Wusu", """
+                        I am a junior majoring in computer science at UNCG. 
+                        I like to call myself a tech enthusiast as I do enjoy 
+                        interacting with new technological advances.
+                        I enjoy playing games, watching anime, I am also a RC hobbyist and I work out a fair bit. 
+                        I am currently in the Army National Guard."""
+        );
+        classList.add(Joshua);
+
+
 
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
