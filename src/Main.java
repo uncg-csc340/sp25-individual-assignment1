@@ -201,14 +201,19 @@ public class Main {
         classList.add(brandon);
 
         User Joshua = new User("Joshua Seton Wusu", """
-                        I am a junior majoring in computer science at UNCG. 
-                        I like to call myself a tech enthusiast as I do enjoy 
-                        interacting with new technological advances.
-                        I enjoy playing games, watching anime, I am also a RC hobbyist and I work out a fair bit. 
-                        I am currently in the Army National Guard."""
+                I am a junior majoring in computer science at UNCG. 
+                I like to call myself a tech enthusiast as I do enjoy 
+                interacting with new technological advances.
+                I enjoy playing games, watching anime, I am also a RC hobbyist and I work out a fair bit. 
+                I am currently in the Army National Guard."""
         );
         classList.add(Joshua);
 
+
+        User my_student = new User("Jmy_student", """
+                I am a new student"""
+        );
+        classList.add(my_student);
 
 
         /*
