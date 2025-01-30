@@ -199,9 +199,9 @@ public class Main {
                         """
         );
 
-        classList.add(austin);
+        classList.add(brandon);
 
-        User brandon = new User("Austin Rehner" ,
+        User austin = new User("Austin Rehner" ,
                 """
                         I am a junior computer science major. I transferred here with an associate's to earn my bachelors and
                         start a new career. 
