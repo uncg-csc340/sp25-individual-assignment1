@@ -209,6 +209,7 @@ public class Main {
         );
         classList.add(austin);
 
+
         /*
         ADD A NEW USER USING YOUR NAME AND BIO ABOVE, THEN ADD THE USER TO THE CLASSLIST AS SHOWN.
          */
