@@ -198,6 +198,7 @@ public class Main {
                         I am from Winston-Salem and commute from there everyday.
                         """
         );
+
         classList.add(brandon);
 
         User Joshua = new User("Joshua Seton Wusu", """
@@ -209,6 +210,13 @@ public class Main {
         );
         classList.add(Joshua);
 
+        User austin = new User("Austin Rehner" ,
+                """
+                        I am a junior computer science major. I transferred here with an associate's to earn my bachelors and
+                        start a new career. 
+                        """
+        );
+        classList.add(austin);
 
 
         /*
